@@ -1,0 +1,8 @@
+
+Att köra git i:
+Konsolen, kommandotolken, terminal, bash.
+
+git clone 
+För att klona ett projekt
+git pull 
+För att hämta senaste förändringar
