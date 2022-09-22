@@ -1,8 +1,32 @@
+Git-versionshantering
+
 
 Att köra git i:
 Konsolen, kommandotolken, terminal, bash.
 
-git clone 
+git
+För att se om det fungerar
+
+git -v
+För att versionen
+
+git status
+För att se om den nuvarande mappen är ett git-repository 
+och det är några förändringar
+
+git clone [webbadress]
 För att klona ett projekt
+
 git pull 
 För att hämta senaste förändringar
+
+
+Att pusha förändringar
+
+git add .
+Lägga till alla förändringar i committen
+
+git commit -m "meddelande om ändring"
+
+git push
+Skicka till repository origin master
